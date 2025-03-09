@@ -42,13 +42,13 @@ The Candidate Search Application is a React-based app built with TypeScript that
 > 1.) Clone the repository:
 >
 > ```
-> git clone https://github.com/your-username/nordbot.git
+> git clone https://github.com/your-username/candidate-search-app.git
 > ```
 >
 > 2.) Navigate to the project directory:
 >
 > ```
-> cd nordbot
+> cd candidate-search-app
 > ```
 
 ## Usage
@@ -56,7 +56,7 @@ The Candidate Search Application is a React-based app built with TypeScript that
 To run the application:
 
 > ```
-> streamlit run mk1.py
+> npm run dev
 > ```
 
 ## License
